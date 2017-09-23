@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/shamu/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/motorola/shamu/proprietary/bin/stm401:system/bin/stm401 \
     vendor/motorola/shamu/proprietary/bin/tcmd_mini:system/bin/tcmd_mini \
     vendor/motorola/shamu/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
