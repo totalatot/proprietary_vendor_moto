@@ -27,8 +27,8 @@ Pull from TheMuppets and my git, and then cherry-pick my commits:
         git pull origin cm-14.1 --depth=1
         git remote add motoxpro https://github.com/totalatot/proprietary_vendor_motorola.git
         git fetch motoxpro master:motoxpro
-	git log motoxpro
-	git cherry-pick commit1
-	git cherry-pick commit2
+        git log motoxpro
+        git cherry-pick 44b6225d5662188281276e51d59ba4065e3c62be
+        git cherry-pick ebad01d98b053cd855b8ab4e3ed44c511abc1f40
 
 Proprietary is done. Start to build you Lineage OS and enjoy.
